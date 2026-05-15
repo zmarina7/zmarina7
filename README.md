@@ -27,7 +27,7 @@ I am a Grade 12 developer focused on **defensive cybersecurity, secure hardware-
 * **[SafeWound-SafeHaven](https://github.com/zmarina7/SafeWound-SafeHaven):** An integrated, offline-first public safety system utilizing LoRa/satellite communication architectures.
 * **[Neuro-Vision System Blueprint](https://github.com/zmarina7/neuro-vision-system-blueprint):** AI-driven and LiDAR-based assistive navigation hardware-software architecture.
 * **[EduSphere-MDM-Concept](https://github.com/zmarina7/EduSphere-MDM-Concept):** Centralized Mobile Device Management (MDM) architecture for enterprise/educational environments.
-* **[Geez-Code-Pro](https://github.com/zmarina7/Geez-Code-Pro):** A computational text-processing framework optimized for the Ge'ez script matrix.
+* **[Geez-Code-Pro](https://github.com/zmarina7/Geez-Code-Pro):** First SOV first Amharic programming language.
 
 ---
 
