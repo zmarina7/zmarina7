@@ -1,17 +1,15 @@
 ## Hi there 👋
 
-<!--##Aspiring Cybersecurity Engineer & AI/IoT Innovator
+<!--## 👋 Aspiring Cybersecurity Engineer & AI/IoT Innovator
 
-I am a Grade 12 developer focused on **defensive cybersecurity, secure hardware-software integration, and localized computing**. My technical methodology prioritizes building resilient, offline-first infrastructure tailored to Ethiopia's unique infrastructure and cultural landscapes.
+I am a Grade 12 developer focused on **defensive cybersecurity, secure hardware-software integration, and localized computing**. My technical methodology prioritizes building resilient, offline-first infrastructure tailored to Ethiopia's infrastructure and cultural landscapes.
 
-I leverage a highly disciplined, self-taught approach to master emerging frameworks, network security tools, and physical system architecture.
-
----
-
-### 🚀 Core Research & Focus Areas
-* **Digital Sovereignty:** Developing secure, localized digital frameworks and advancing Ethiopic (Ge'ez) script computation.
-* **Hardware-Level Security:** Prototyping embedded systems, IoT architecture, and robotics with a security-by-design approach.
-* **Defensive Cyber Operations:** Independent lab research in network penetration testing, vulnerability assessment, and threat modeling.
+- 🔭 **I’m currently working on:** Secure, offline-first system architectures for localized public safety and accessibility (SafeWound & Neuro-Vision blueprints).
+- 🌱 **I’m currently learning:** Advanced network penetration testing, OSINT methodologies, and hardware-level IoT security frameworks.
+- 👯 **I’m looking to collaborate on:** Open-source defensive security tools and optimized Ethiopic (Ge'ez) text-processing frameworks.
+- 🤔 **I’m looking for help with:** High-level professional mentorship in cybersecurity engineering and transitioning hardware prototypes to deployment scales.
+- 💬 **Ask me about:** Cybersecurity, IoT prototyping, Ge'ez script computation, and placing Top 10 in the national STEMpower application contest.
+- ⚡ **Fun fact:** I dismantle defunct consumer electronics to analyze physical system architecture and study hardware-level vulnerabilities.
 
 ---
 
@@ -43,3 +41,5 @@ I leverage a highly disciplined, self-taught approach to master emerging framewo
 ---
 
 📈 *Consistently tracking global threat reports and teaching myself new defensive frameworks to prepare for a career in national cybersecurity infrastructure.*
+
+📫 How to reach me: tifshitzelealem@gmail.com 
