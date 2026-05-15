@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 👋 Aspiring Cybersecurity Engineer & AI/IoT Innovator
+## Aspiring Cybersecurity Engineer & AI/IoT Innovator
 
 I am a Grade 12 developer focused on **defensive cybersecurity, secure hardware-software integration, and localized computing**. My technical methodology prioritizes building resilient, offline-first infrastructure tailored to Ethiopia's infrastructure and cultural landscapes.
 
